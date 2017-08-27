@@ -2,7 +2,7 @@
 Terry Do (hou.dobaotrung@gmail.com)
 
 ## Overview
-Custom Sticky is small, free open-source plugin which helps you in making sidebar sticks on scrolling and stay where it is instead of returning its original position when unsticking.
+Custom Sticky is small, free open-source plugin which helps you in making sidebar sticks on scrolling and stay where it is instead of returning its original position when unsticking. This is mainly used for sticky sidebars.
 
 ## Usage
 	$("#yoursidebar").customSticky();
@@ -11,16 +11,16 @@ Custom Sticky is small, free open-source plugin which helps you in making sideba
 
 <dl>
   <dt>road</dt>
-  <dd>Define the scroll path's length that the sidebar doesn't fixed anymore and stay where it is. <b>Default</b>: 1000 (px).</dd>
+  <dd>Define the scroll path's length that the sidebar'd be fixed. <b>Default</b>: 1000 (px).</dd>
   
   <dt>destroy</dt>
   <dd>Destroy the plugin. <b>Default</b>: false.</dd>
   
-  <dt>unstickBefore</dt>
-  <dd>Shouldn't use along with _road_. This will be the element which your sidebar stop being fixed before its top. <b>Default</b>: NULL.</dd>
+  <dt>unstickBefore (jQuery Object)</dt>
+  <dd>Don't use along with <em>road</em>. Your sidebar will stop being fixed before this element's top border.<b>Default</b>: NULL.</dd>
 
   <dt>offsetTop, offsetBottom, offsetLeft, offsetRight</dt>
-  <dd>Positioning the element after being fixed. <b>Default</b>: 0;</dd>
+  <dd>Positioning the sidebar after being fixed. <b>Default</b>: 0;</dd>
 </dl>
 
 ## Some Examples    
