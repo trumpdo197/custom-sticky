@@ -28,7 +28,8 @@ Custom Sticky is small, free open-source plugin which helps you in making sideba
 	$("#yoursidebar").customSticky({
     	road: 2000,
     })
-    // Unstick and stay where it is after scrolling top the top of an element.
+    
+    // Unstick and stay where it is after scrolling to the top of an element.
     $("#yoursidebar").customSticky({
     	unstickBefore: $('#div'),
     })
