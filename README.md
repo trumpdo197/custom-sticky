@@ -2,7 +2,7 @@
 Terry Do (hou.dobaotrung@gmail.com)
 
 ## Overview
-Custom Sticky is small, free open-source plugin which helps you in making sidebar sticks after scrolling a short path and stay where it is after a long path.
+Custom Sticky is small, free open-source plugin which helps you in making sidebar sticks on scrolling and stay where it is instead of returning its original position when unsticking.
 
 ## Usage
 	$("#yoursidebar").customSticky();
