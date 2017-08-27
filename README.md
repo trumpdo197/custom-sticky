@@ -25,13 +25,13 @@ Custom Sticky is small, free open-source plugin which helps you in making sideba
 
 #Some Examples
 	// Unstick and stay where it is after scrolling 2000px.
-	$("#yoursidebar").customSticky({
+	`$("#yoursidebar").customSticky({
     	road: 2000,
-    })
+    })`
     // Unstick and stay where it is after scrolling top the top of an element.
-    $("#yoursidebar").customSticky({
+    `$("#yoursidebar").customSticky({
     	unstickBefore: $('#div'),
-    })
+    })`
     
 ## Compatibility
 * Jquery v1.7.1 or above is required.
