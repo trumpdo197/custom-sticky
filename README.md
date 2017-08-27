@@ -23,7 +23,7 @@ Custom Sticky is small, free open-source plugin which helps you in making sideba
   <dd>Positioning the element after being fixed. <b>Default</b>: 0;</dd>
 </dl>
 
-#Some Examples
+## Some Examples    
 	// Unstick and stay where it is after scrolling 2000px.
 	`$("#yoursidebar").customSticky({
     	road: 2000,
