@@ -34,6 +34,11 @@ Custom Sticky is small, free open-source plugin which helps you in making sideba
     	unstickBefore: $('#div'),
     })
     
+    // Rekt it!
+    $("#yoursidebar").customSticky({
+    	destroy: true,
+    })
+    
 ## Compatibility
 * Jquery v1.7.1 or above is required.
     
