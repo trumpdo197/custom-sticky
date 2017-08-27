@@ -17,14 +17,14 @@ Custom Sticky is small, free open-source plugin which helps you in making sideba
 
 <dl>
   <dt>_road_</dt>
-  <dd>Define the scroll path's length that the sidebar doesn't fixed anymore and stay where it is. **Default**: 1000 (px).</dd>
+  <dd>Define the scroll path's length that the sidebar doesn't fixed anymore and stay where it is. <b>Default</b>: 1000 (px).</dd>
   
   <dt>_destroy_</dt>
-  <dd>Destroy the plugin. **Default**: false.</dd>
+  <dd>Destroy the plugin. <b>Default</b>: false.</dd>
   
   <dt>_unstickBefore_</dt>
-  <dd>Shouldn't use along with _road_. This will be the element which your sidebar stop being fixed before its top. **Default**: NULL.</dd>
+  <dd>Shouldn't use along with _road_. This will be the element which your sidebar stop being fixed before its top. <b>Default</b>: NULL.</dd>
 
   <dt>_offsetTop_, _offsetBottom_, _offsetLeft_, offsetRight</dt>
-  <dd>Positioning the element after being fixed. **Default**: 0;</dd>
+  <dd>Positioning the element after being fixed. <b>Default</b>: 0;</dd>
 </dl>
