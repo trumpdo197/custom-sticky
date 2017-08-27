@@ -17,7 +17,7 @@ Custom Sticky is small, free open-source plugin which helps you in making sideba
   <dd>Destroy the plugin. <b>Default</b>: false.</dd>
   
   <dt>unstickBefore (jQuery Object)</dt>
-  <dd>Don't use along with <em>road</em>. Your sidebar will stop being fixed before this element's top border.<b>Default</b>: NULL.</dd>
+  <dd>Don't use along with <em>road</em>. Your sidebar will stop being fixed before this element's top border. <b>Default</b>: NULL.</dd>
 
   <dt>offsetTop, offsetBottom, offsetLeft, offsetRight</dt>
   <dd>Positioning the sidebar after being fixed. <b>Default</b>: 0;</dd>
