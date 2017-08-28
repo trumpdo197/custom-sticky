@@ -1,5 +1,5 @@
 /**
- * Author: TrungSenpai <hou.dobaotrung@gmail.com>
+ * Author: Terry Do <hou.dobaotrung@gmail.com>
  * Description: Simple sticky plugin which elements won't go back to its initial position after unstick.
  */
 
